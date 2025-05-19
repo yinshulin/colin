@@ -441,7 +441,7 @@ GEM
       activerecord (>= 6.1.5)
       activesupport (>= 6.1.5)
       i18n
-    rbs (3.9.3)
+    rbs (3.9.4)
       logger
     rdoc (6.13.1)
       psych (>= 4.0.0)
@@ -577,7 +577,7 @@ GEM
     simplecov-html (0.13.1)
     simplecov_json_formatter (0.1.4)
     slop (3.6.0)
-    solargraph (0.54.3)
+    solargraph (0.54.5)
       backport (~> 1.2)
       benchmark (~> 0.4)
       bundler (~> 2.0)
